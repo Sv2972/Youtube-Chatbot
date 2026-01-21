@@ -1,8 +1,3 @@
-# Youtube-Chatbot
-Here is a `README.md` file tailored to the code in your `YouTube_Chatbot(improved).ipynb` notebook.
-
----
-
 # YouTube Video Chatbot 🎥🤖
 
 A Python-based RAG (Retrieval Augmented Generation) application that allows you to "chat" with any YouTube video. It fetches the video transcript, indexes it, and uses Google's Gemini LLM to answer your questions based on the video's content.
